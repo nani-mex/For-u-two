@@ -25,6 +25,12 @@ span {
     transform: rotate(360deg);
   }
 }
+span {
+  position: absolute;
+  font-size: 14px;
+  white-space: nowrap;
+  font-weight: bold;
+}
 .star {
   position: absolute;
   width: 2px;
